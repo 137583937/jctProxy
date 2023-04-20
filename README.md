@@ -14,6 +14,7 @@
 - 通过修改语法树的构建过程，重新组织目标方法，自动植入代理类
 - 保留原有方法签名
 - 类似lombok的实现
+![image](https://user-images.githubusercontent.com/12370942/233395591-9c68482f-6c08-4ab1-884b-a154ea25acbf.png)
 
 ## 代理前
 ``` java
